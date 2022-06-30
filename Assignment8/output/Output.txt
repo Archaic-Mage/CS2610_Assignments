@@ -1,0 +1,11 @@
+Total number of instructions executed: 8
+Number of instrcutions in each class
+Arithmetic instructions              : 3
+Logical instructions                 : 1
+Data instructions                    : 3
+Control instructions                 : 0
+Halt instructions                    : 1
+Cycles Per Instrcution               : 2.625
+Total number of stalls               : 3
+Data stalls (raw)                    : 3
+Control stalls                       : 0
